@@ -14,11 +14,11 @@ function App() {
         <h2>This project is consisting of:</h2>
         <ul>
           <li>TypeScript</li>
-          <li>React (16+)</li>
+          <li>React (17+)</li>
           <li>react-scripts (createReactApp)</li>
           <li>react-testing-library (not Enzyme)</li>
           <li>SASS/SCSS</li>
-          <li>ESLint (instead of deprecated TSLint)</li>
+          <li>ESLint</li>
           <li>Prettier</li>
         </ul>
         <a

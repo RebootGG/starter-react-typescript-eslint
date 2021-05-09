@@ -6,35 +6,12 @@ Starting point for a Typescript React project with full setup of SASS/SCSS, ESLi
 
 This project is initialized with [Create React App](https://github.com/facebook/create-react-app) consisting of:
 
+- React (17+)
 - TypeScript
-- React (16+)
-- react-scripts (createReactApp)
 - react-testing-library (not Enzyme)
 - SASS/SCSS
-- ESLint (instead of deprecated TSLint)
+- ESLint with Airbnb rules and styleguide
 - Prettier
-
-## Get Started
-
-### Make sure you run Node.js v10+
-
-To install check ([Node.js installation](https://nodejs.org/en/) or [Node Version Manager installation](https://github.com/nvm-sh/nvm)).
-
-### Clone or copy this repo
-
-```bash
-curl -L https://github.com/michielbouw/react-typescript-eslint-prettier-boilerplate/archive/master.zip | tar zx
-mv react-typescript-eslint-prettier-boilerplate APP_NAME
-cd APP_NAME
-```
-
-or
-
-```bash
-git clone git@github.com:michielbouw/react-typescript-eslint-prettier-boilerplate.git APP_NAME
-cd APP_NAME
-```
-
 ### `yarn install` (or `npm install`)
 
 Note: this project is initialized with [Yarn]() and it's recommended to use it,<br>
